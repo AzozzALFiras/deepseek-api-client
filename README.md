@@ -17,7 +17,7 @@ A lightweight PHP client to interact with the DeepSeek API without any external 
 To install the package via Composer, run the following command:
 
 ```bash
-composer require azozzalfiras/deepseek-api-client
+composer require azozzalfiras/deepseek-api
 ```
 
 # Usage
