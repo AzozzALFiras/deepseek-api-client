@@ -1,0 +1,16 @@
+{
+    "name": "azozzalfiras/deepseek-api",
+    "description": "A lightweight PHP client to interact with the DeepSeek API without any external dependencies.",
+    "autoload": {
+        "psr-4": {
+            "Azozzalfiras\\DeepseekApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azozz ALFiras",
+            "email": "azozzalfiras@gmail.com"
+        }
+    ],
+    "require": {}
+}
